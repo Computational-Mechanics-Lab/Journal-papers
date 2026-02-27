@@ -1,0 +1,34 @@
+Geometry Metrics Summary
+======================
+
+Case: AAA_M_70-79_stat_1_prob_distribution_morph_1
+Gender: M
+Age Group: 70-79
+
+Base Geometry:
+-------------
+Volume: 145959.0 mm³
+Surface Area: 14676.0 mm²
+Centerline Length: 131.5 mm
+Tortuosity: 1.049
+Sphericity: 0.913
+Convexity: 0.959
+Average Radius: 37.7 mm
+
+Morphed Geometry:
+----------------
+Volume: 152962.4 mm³
+Surface Area: 14710.1 mm²
+Centerline Length: 134.9 mm
+Tortuosity: 1.087
+Sphericity: 0.940
+Convexity: 0.996
+Average Radius: 37.2 mm
+
+Relative Changes (%):
+-------------------
+Volume Change: 4.8%
+Surface Area Change: 0.2%
+Centerline Length Change: 2.6%
+Tortuosity Change: 3.6%
+Sphericity Change: 2.9%

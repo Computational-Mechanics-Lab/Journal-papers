@@ -1,0 +1,28 @@
+{
+    "demographics": {
+        "gender": "F",
+        "age_group": "70-79",
+        "stat_variant": 2
+    },
+    "vessel_settings": {
+        "num_points": 100,
+        "num_circumference_vertices": 100,
+        "perturbation_range": 0.15,
+        "num_cycles": 4
+    },
+    "morphing_settings": {
+        "enable_morphing": true,
+        "num_variations": 10,
+        "save_control_points": false,
+        "visualize_morphing": false,
+        "generate_cases": true,
+        "sphere_radius": 5.0,
+        "num_control_points": 50,
+        "influence_radius": 10.0,
+        "fixed_percentage": 10.0,
+        "buffer_percentage": 5.0,
+        "smoothing_iterations": 2,
+        "smoothing_factor": 0.5,
+        "transition_power": 2.0
+    }
+}
