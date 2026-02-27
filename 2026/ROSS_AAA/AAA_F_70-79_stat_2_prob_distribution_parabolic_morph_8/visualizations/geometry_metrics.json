@@ -1,0 +1,32 @@
+{
+    "base": {
+        "shape": {
+            "volume": 291769.51623179513,
+            "surface_area": 20432.983048250826,
+            "sphericity": 1.0411475783674793,
+            "roundness": 0.1324740425322955,
+            "surface_volume_ratio": 0.07003124696556005,
+            "average_radius": 40.18607471994411,
+            "hull_volume": 284012.57301103766,
+            "hull_surface_area": 23418.240032121266,
+            "convexity": 1.0273119712219783
+        },
+        "centerline": {
+            "centerline_length": 131.45804591319822,
+            "straight_length": 125.29968076575456,
+            "tortuosity": 1.0491490888867994
+        }
+    },
+    "parameters": {
+        "gender": "F",
+        "age_group": "70-79",
+        "statistical_variation": 2
+    },
+    "relative_changes": {
+        "volume_change": -2.2991034316024583,
+        "surface_area_change": -2.2181997835427936,
+        "centerline_length_change": -0.6711154097281786,
+        "tortuosity_change": 1.0000967856265206,
+        "sphericity_change": 0.6949454127774903
+    }
+}
